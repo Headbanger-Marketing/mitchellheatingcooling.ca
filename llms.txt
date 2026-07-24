@@ -1,0 +1,26 @@
+# Mitchell Heating & Cooling
+
+> Mitchell Heating & Cooling is a local HVAC company serving Mitchell, Perth/Huron, Ontario, offering furnace repair, AC repair, ductless mini-split installation, heat pump repair and installation, fireplace installation, thermostat repair, and duct cleaning to homeowners across the region.
+
+Phone: (519) 348-4027  |  Email: contact@mitchellheatingcooling.ca  |  Website: https://mitchellheatingcooling.ca
+
+Service areas: Mitchell, Stratford, Seaforth, Goderich, Listowel, Clinton, Wingham
+
+## Key pages
+
+- [Home](https://mitchellheatingcooling.ca/): Mitchell Heating & Cooling homepage with service overview and FAQ
+- [About](https://mitchellheatingcooling.ca/about/): About the company and service area
+- [Contact](https://mitchellheatingcooling.ca/contact/): Request a free quote or service call
+
+## Services
+
+- [Furnace Installation & Repair](https://mitchellheatingcooling.ca/services/furnace-repair/): Furnace Installation & Repair in Mitchell, Ontario
+- [AC Installation & Repair](https://mitchellheatingcooling.ca/services/ac-repair/): AC Installation & Repair in Mitchell, Ontario
+- [Heat Pumps](https://mitchellheatingcooling.ca/services/heat-pump-repair-installation/): Heat Pumps in Mitchell, Ontario
+- [Duct Cleaning](https://mitchellheatingcooling.ca/services/duct-cleaning/): Duct Cleaning in Mitchell, Ontario
+- [Thermostats](https://mitchellheatingcooling.ca/services/thermostat-repair-replacement/): Thermostats in Mitchell, Ontario
+- [Ductless AC Installation](https://mitchellheatingcooling.ca/services/ductless-ac-installation/): Ductless AC Installation in Mitchell, Ontario
+
+## FAQ
+
+Common questions about HVAC service in Mitchell are answered on the homepage.
